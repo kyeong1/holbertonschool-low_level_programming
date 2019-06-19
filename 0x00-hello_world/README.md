@@ -1,0 +1,1 @@
+This section of the project is to familiarize the user with the C compiler and the different steps it goes through. 
