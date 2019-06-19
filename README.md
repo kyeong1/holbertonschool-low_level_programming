@@ -1,1 +1,1 @@
-This project is created in order to understand C programming basics in detail. 
+This project is created in order to understand C programming at a basic level.
