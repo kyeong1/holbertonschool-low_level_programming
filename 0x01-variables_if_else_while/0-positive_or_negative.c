@@ -1,8 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* return = sucess */
 /* main = entry point */
+/* return = 0 (Success) */
+/* @void: no argument */ 
 int main(void)
 {
 int n;
