@@ -1,0 +1,1 @@
+The purpose of this project is to learn about arithmetic, logical, relational and boolean operators as well as the use of statements, comments and variables.

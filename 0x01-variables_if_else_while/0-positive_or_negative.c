@@ -3,6 +3,10 @@
 #include <stdio.h>
 /* main = entry point */
 /* return = 0 (Success) */
+<<<<<<< HEAD
+=======
+/* @void: no argument */ 
+>>>>>>> 5146c7d8814865c25980e5c53a1ce19ad13590df
 int main(void)
 {
 int n;
