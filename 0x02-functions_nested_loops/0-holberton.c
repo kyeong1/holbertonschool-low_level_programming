@@ -3,7 +3,7 @@
  * _putchar - writes to stdout
  *
  *
- * Return: stdout print "Holberton" followed by newline
+ * Return: Always (0)
  *
  */
 int main(void)
@@ -17,5 +17,6 @@ _putchar('r');
 _putchar('t');
 _putchar('o');
 _putchar('n');
+_putchar('\n');
 return (0);
 }
