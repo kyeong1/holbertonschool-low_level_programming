@@ -1,13 +1,14 @@
 #include "holberton.h"
 /**
- * print_alphabet - uses print_alphabet function
- * @void - no argument
- * Return: Always 0.
+ * print_alphabet - print lowercase a-z
+ *
+ * Return: 0
  **/
 void print_alphabet(void)
 {
 int a;
-for (a == 'a'; a <= 'z'; a++)
+a = 'a';
+for (a = 'a'; a <= 'z'; a++)
 {
 _putchar(a);
 _putchar('\n');
