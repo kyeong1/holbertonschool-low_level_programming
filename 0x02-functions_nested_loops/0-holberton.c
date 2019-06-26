@@ -1,22 +1,20 @@
 #include "holberton.h"
 /**
- * _putchar - writes to stdout
+ * _putchar - writes the character c to stdout
  *
  *
- * Return: Always (0)
+ * Return: On success 1.
  *
+ *
+ * On error, -1 is returned, and errno is set appropriately.
  */
-int main(void)
+int main(void);
 {
-_putchar('H');
-_putchar('o');
-_putchar('l');
-_putchar('b');
-_putchar('e');
-_putchar('r');
-_putchar('t');
-_putchar('o');
-_putchar('n');
-_putchar('\n');
-return (0);
+char str1[10] = {'H', 'o', 'l', 'b', 'e', 'r', 't', 'o', 'n', '\0'};
+for (c = 0; c < 9; c++)
+{
+_putchar(char *str1);
+_putchar ('\n');
+}
+return (1);
 }
