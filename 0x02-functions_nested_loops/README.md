@@ -1,1 +1,1 @@
-This project is created for the purpose of learning _putchar.
+This project was created for the purpose of _putchar and manipulating script.
