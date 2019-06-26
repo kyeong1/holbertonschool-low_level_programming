@@ -1,5 +1,5 @@
 #include "holberton.h"
-#include "_putchar.c"
+
 /**
  * print_alphabet_x10 - prints alphabet 10 times
  *
@@ -17,6 +17,5 @@ _putchar(a);
 a++;
 }
 _putchar('\n');
-a = 'a';
 }
 }
