@@ -6,7 +6,6 @@
  *
  **/
 int _islower(int a);
-{
 if (a <= 'z' && a >= 'a')
 {
 return (1);
@@ -14,5 +13,4 @@ return (1);
 else
 {
 return (0);
-}
 }
