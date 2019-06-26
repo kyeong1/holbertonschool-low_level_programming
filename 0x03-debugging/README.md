@@ -1,0 +1,1 @@
+This project focuses on debugging manually and how to read error messages.
