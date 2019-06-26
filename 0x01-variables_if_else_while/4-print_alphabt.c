@@ -1,9 +1,9 @@
 #include <stdio.h>
-/*
+/**
  *
  * Main - entry block
- * @void: no argument
- * Return :0 (Success)
+ *
+ * Return : 0
  *
  */
 int main(void);
