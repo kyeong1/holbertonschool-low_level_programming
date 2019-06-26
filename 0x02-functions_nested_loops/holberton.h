@@ -1,6 +1,3 @@
-#ifndef "holberton.h"
-#define "holberton.h"
-
 /**
  * _putchar - writes the character c to stdout
  * @c: The character to print
@@ -34,6 +31,3 @@ int _islower(int c);
  *
  **/
 int _isalpha(int c);
-
-
-#endif 
