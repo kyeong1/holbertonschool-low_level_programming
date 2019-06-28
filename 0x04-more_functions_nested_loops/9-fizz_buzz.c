@@ -1,10 +1,8 @@
 #include <stdio.h>
 /**
- *
- * main - entry
+ * main - entry point
  * @void: no int
  * Return: 0
- *
  */
 int main(void)
 {
@@ -14,7 +12,7 @@ if (k % 15 == 0)
 {
 printf("FizzBuzz");
 }
-else if ( k % 5 == 0)
+else if (k % 5 == 0)
 {
 printf("Buzz");
 }
