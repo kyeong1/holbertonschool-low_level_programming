@@ -1,7 +1,8 @@
 #include "holberton.h"
 /**
  * print_most_numbers - check the code for Holberton School students.
- * @n: int
+ *
+ *
  * Return: Always 0.
  */
 void print_most_numbers(void)
